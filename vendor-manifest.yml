@@ -636,7 +636,7 @@ actions:
   - name: dtolnay/rust-toolchain
     ref: stable
     ref_type: branch
-    sha: 6bed0761d98439e5a578e2877258200ad565ba87
+    sha: 686976e191b89faba57d3206551f0f330d8cb249
     exclude:
       - '**'
     notes: >-
